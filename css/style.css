@@ -1,0 +1,66 @@
+body {
+  background-image: url("../images/download.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.menubtn{
+  width: 200px;
+  color: white;
+  background-color: #7DACDB
+}
+
+h2{
+  text-align: center;
+  color: black;
+}
+
+#doctorimage{
+  background-image: url('../images/giatroi.jpg');
+  text-align: center;
+  height: 500px;
+  background-size: auto 100%;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.searchtexts{
+  border: 2px solid black;
+  text-align: center;
+  width: 300px;
+  font-size: 2em;
+}
+
+
+  .map{
+      text-align: center;
+      margin: auto;
+      width: 100%;
+      padding: 10px;
+  }
+
+.facebookbtn{
+  padding: 2px;
+  background: #3B5998;
+  color: white;
+}
+
+.instagrambtn{
+  padding: 2px;
+  background: #E81170;
+  color: white;
+}
+
+.twitterbtn{
+  padding: 2px;
+  background: #34CCFE;
+  color: white;
+}
+
+.epikoinwnia{
+  text-align: center;
+}
+
+h5{
+  font-size: 2em;
+}
